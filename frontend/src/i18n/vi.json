@@ -42,7 +42,8 @@
     "update": "Cập nhật",
     "upload": "Tải lên",
     "openFile": "Mở tệp",
-    "discardChanges": "Hủy bỏ thay đổi"
+    "discardChanges": "Hủy bỏ thay đổi",
+    "saveChanges": "Save changes"
   },
   "download": {
     "downloadFile": "Tải xuống tệp tin",
@@ -100,7 +101,10 @@
     "submit": "Đăng nhập",
     "username": "Tên người dùng",
     "usernameTaken": "Tên người dùng đã tồn tại",
-    "wrongCredentials": "Thông tin đăng nhập không đúng"
+    "wrongCredentials": "Thông tin đăng nhập không đúng",
+    "logout_reasons": {
+      "inactivity": "You have been logged out due to inactivity."
+    }
   },
   "permanent": "Vĩnh viễn",
   "prompts": {
@@ -154,6 +158,7 @@
     "video": "Video"
   },
   "settings": {
+    "aceEditorTheme": "Ace editor theme",
     "admin": "Quản trị viên",
     "administrator": "Người quản trị",
     "allowCommands": "Thực thi lệnh",
@@ -170,6 +175,7 @@
     "commandRunnerHelp": "Tại đây, bạn có thể thiết lập các lệnh được thực thi trong các sự kiện đã định. Bạn phải viết một lệnh trên mỗi dòng. Các biến môi trường {0} và {1} sẽ có sẵn, trong đó {0} tương đối với {1}. Để biết thêm thông tin về tính năng này và các biến môi trường có sẵn, vui lòng đọc {2}.",
     "commandsUpdated": "Lệnh đã được cập nhật!",
     "createUserDir": "Tự động tạo thư mục chính của người dùng khi thêm người dùng mới",
+    "minimumPasswordLength": "Độ dài mật khẩu tối thiểu",
     "tusUploads": "Tải lên theo phân đoạn",
     "tusUploadsHelp": "File Browser hỗ trợ tải lên tệp theo phân đoạn, giúp việc tải lên trở nên hiệu quả, đáng tin cậy, có thể tiếp tục và phù hợp với mạng không ổn định.",
     "tusUploadsChunkSize": "Kích thước tối đa của một yêu cầu (tải lên trực tiếp sẽ được sử dụng cho các tệp nhỏ hơn). Bạn có thể nhập một số nguyên biểu thị kích thước theo byte hoặc một chuỗi như 10MB, 1GB, v.v.",

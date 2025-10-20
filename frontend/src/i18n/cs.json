@@ -24,6 +24,7 @@
     "ok": "OK",
     "permalink": "Získat trvalý odkaz",
     "previous": "Předchozí",
+    "preview": "Preview",
     "publish": "Publikovat",
     "rename": "Přejmenovat",
     "replace": "Nahradit",
@@ -41,7 +42,8 @@
     "update": "Aktualizovat",
     "upload": "Nahrát",
     "openFile": "Otevřít soubor",
-    "discardChanges": "Zrušit změny"
+    "discardChanges": "Zrušit změny",
+    "saveChanges": "Save changes"
   },
   "download": {
     "downloadFile": "Stáhnout soubor",
@@ -99,7 +101,10 @@
     "submit": "Přihlásit se",
     "username": "Uživatelské jméno",
     "usernameTaken": "Uživatelské jméno již existuje",
-    "wrongCredentials": "Nesprávné přihlašovací údaje"
+    "wrongCredentials": "Nesprávné přihlašovací údaje",
+    "logout_reasons": {
+      "inactivity": "You have been logged out due to inactivity."
+    }
   },
   "permanent": "Trvalý",
   "prompts": {
@@ -153,6 +158,7 @@
     "video": "Video"
   },
   "settings": {
+    "aceEditorTheme": "Ace editor theme",
     "admin": "Admin",
     "administrator": "Administrátor",
     "allowCommands": "Povolit příkazy",
@@ -169,6 +175,7 @@
     "commandRunnerHelp": "Zde můžete nastavit příkazy, které se spustí při určených událostech. Každý příkaz musí být na samostatném řádku. Budou k dispozici proměnné prostředí {0} a {1}, přičemž {0} se vztahuje na {1}. Pro více informací o této funkci a dostupných proměnných prostředí si přečtěte {2}.",
     "commandsUpdated": "Příkazy aktualizovány!",
     "createUserDir": "Automaticky vytvořit domovskou složku uživatele při přidání nového uživatele",
+    "minimumPasswordLength": "Minimum password length",
     "tusUploads": "Nahrávání po částech",
     "tusUploadsHelp": "File Browser podporuje nahrávání souborů po částech, což umožňuje vytváření efektivních, spolehlivých, obnovitelných a rozdělených nahrávek souborů i na nespolehlivých sítích.",
     "tusUploadsChunkSize": "Maximální velikost požadavku (přímé nahrávání bude použito pro menší nahrávky). Můžete zadat prosté číslo označující velikost v bajtech nebo řetězec jako 10MB, 1GB atd.",
